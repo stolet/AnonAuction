@@ -1,0 +1,5 @@
+{
+    "SellerIpPort": "127.0.0.1:8000",
+    "LocalIpPort": "127.0.0.1:8086",
+    "ExternalIpPort": "127.0.0.1:8086"
+}
